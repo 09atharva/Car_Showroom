@@ -1,3 +1,9 @@
+# 3D Models (Exclude large source files)
+*.obj
+*.blend
+*.zip
+cars folder/
+
 # Logs
 logs
 *.log
